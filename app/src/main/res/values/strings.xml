@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="login_btn">Se connecter</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="s_enregistrer">S\'enregistrer</string>
+    <string name="r_initialiser">Réinitialiser</string>
+    <string name="se_d_connecter">Se déconnecter</string>
+</resources>
